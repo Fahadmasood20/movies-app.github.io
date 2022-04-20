@@ -7,7 +7,7 @@ const IMG_URL = 'https://image.tmdb.org/t/p/w500';
 let query = "All"
 let URL = `${BASE_URL}api_key=${API_KEY}&query=${query}`
 console.log(URL)
-
+//contact me for more project
 let search = document.getElementById('search') 
 console.log(search)
 
